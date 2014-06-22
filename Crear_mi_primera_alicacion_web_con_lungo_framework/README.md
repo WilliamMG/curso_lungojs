@@ -4,8 +4,8 @@ Crear mi primera alicacion web con lungo framework
 <h2>Preparando entorno de desarrollo</h2>
 <p>Para preparar nuestro entorno de desarrollo debemos de descargar los archivos del framework lungo y la libreria javascript Quo</p>
 <ul>
-	<li><a href="http://lungo.tapquo.com">Lungo Framework</a></li>
-	<li><a href="http://quojs.tapquo.com">Libreria QuoJS</a></li>
+	<li><a href="http://lungo.tapquo.com" target="_blank">Lungo Framework</a></li>
+	<li><a href="http://quojs.tapquo.com" target="_blank">Libreria QuoJS</a></li>
 </ul>
 <p>Descomprime el contenido de ambas carpetas en un mismo directorio, ahora basta con crear un archivo "index.html" e incluir a este las librerias que descargamos</p>
 <h2>Tienes dudas?</h2>
