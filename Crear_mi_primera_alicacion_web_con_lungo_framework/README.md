@@ -8,6 +8,9 @@ Crear mi primera alicacion web con lungo framework
 	<li><a href="http://quojs.tapquo.com">Libreria QuoJS</a></li>
 </ul>
 <p>Descomprime el contenido de ambas carpetas en un mismo directorio, ahora basta con crear un archivo "index.html" e incluir a este las librerias que descargamos</p>
+<h2>Tienes dudas?</h2>
+<p>Habilitamos un foro para que publiques todas tus dudas respecto al tema, ingresa en<br>
+http://azteca.programandowebs.com/foro/inicio/</p>
 <h2>Mas informacion</h2>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
 http://azteca.programandowebs.com/moviles/crear-mi-primera-app-movil-con-lungo-framework/589/</p>
