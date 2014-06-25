@@ -16,6 +16,6 @@ Estructura basica de una Aplicacion movil con lungo
 http://azteca.programandowebs.com/foro/inicio/</p>
 <h2>Mas informacion</h2>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
-http://azteca.programandowebs.com/Programacion/estructura-de-una-aplicacion-movil-con-lungojs/591/</p>
+http://azteca.programandowebs.com/moviles/estructura-de-una-aplicacion-movil-con-lungojs/591/</p>
 <p>Puedes ver el video sobre el tema en youtube<br>
 https://www.youtube.com/watch?v=kkoMoVsAaOE</p>
