@@ -22,3 +22,7 @@ Codigos de ejemplo del curso Creacion de aplicaciones moviles con lungojs
 	<li><a href="https://www.youtube.com/watch?v=kkoMoVsAaOE">Video del tema</li>
 	<li><a href="http://azteca.programandowebs.com/moviles/estructura-de-una-aplicacion-movil-con-lungojs/591/">Articulo del tema</a></li>
 </ul>
+
+<h2>Tienes dudas?</h2>
+<p>Te ayudamos a resolver tus dudas, entra al foro y publicala, en breve alguien del equipo de programacion azteca o algun integrante de la comunidad te ayudara<br>
+http://azteca.programandowebs.com/foro/inicio/</p>
