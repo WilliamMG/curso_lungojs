@@ -22,6 +22,13 @@ Codigos de ejemplo del curso Creacion de aplicaciones moviles con lungojs
 	<li><a href="https://www.youtube.com/watch?v=kkoMoVsAaOE">Video del tema</li>
 	<li><a href="http://azteca.programandowebs.com/moviles/estructura-de-una-aplicacion-movil-con-lungojs/591/">Articulo del tema</a></li>
 </ul>
+<h3>3.- Formularios, listas y scroll</h3>
+<p>Aprendemos a crear formularios, listas y el famoso scroll para nuestra aplicacion.</p>
+<ul>
+	<li><a href="https://github.com/programacionazteca/curso_lungojs/tree/master/Formularios_listas_y_scroll_con_lungo">Codigo del tema</a></li>
+	<li><a href="https://www.youtube.com/watch?v=38MEVnRiLKc">Video del tema</li>
+	<li><a href="http://azteca.programandowebs.com/moviles/formularios-listas-y-scroll-con-lungo-framework/593/">Articulo del tema</a></li>
+</ul>
 
 <h2>Tienes dudas?</h2>
 <p>Te ayudamos a resolver tus dudas, entra al foro y publicala, en breve alguien del equipo de programacion azteca o algun integrante de la comunidad te ayudara<br>

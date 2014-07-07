@@ -14,6 +14,6 @@ Formularios, listas y scroll con lungo
 http://azteca.programandowebs.com/foro/inicio/</p>
 <h2>Mas informacion</h2>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
-http://azteca.programandowebs.com/moviles/estructura-de-una-aplicacion-movil-con-lungojs/591/</p>
+http://azteca.programandowebs.com/moviles/formularios-listas-y-scroll-con-lungo-framework/593/</p>
 <p>Puedes ver el video sobre el tema en youtube<br>
 https://www.youtube.com/watch?v=38MEVnRiLKc</p>
