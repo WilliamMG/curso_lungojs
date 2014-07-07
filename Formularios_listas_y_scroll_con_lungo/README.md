@@ -1,14 +1,12 @@
-Estructura basica de una Aplicacion movil con lungo
+Formularios, listas y scroll con lungo
 =============
 
-<h2>Conociendo la estructura basica de una App</h2>
-<p>Aprendemos a estructurar un App semanticamente con ayuda del Framework Lungo el cual utiliza HTML 5 semantico para lograr este objetivo, que aprenderemos.-</p>
+<h2>Conociendo como crear formularios, listas y scroll</h2>
+<p>Con este tema concluimos todo lo referente a la estructura de una APP movil creada con lungo, en este tema encontraras informacion acerca de.-</p>
 <ul>
-	<li>Crear secciones</li>
-	<li>Crear paginas dentro de las secciones</li>
-	<li>Asignarle un titulo a la aplicacion</li>
-	<li>Crear menu de navegacion</li>
-	<li>Crear un menu lateral</li>
+	<li>Crear Formularios</li>
+	<li>Crear listas</li>
+	<li>Asignarle un scroll a las paginas que lo requiran</li>
 </ul>
 <p>Te dejo el codigo final del video del curso de lungo.</p>
 <h2>Tienes dudas?</h2>
@@ -18,4 +16,4 @@ http://azteca.programandowebs.com/foro/inicio/</p>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
 http://azteca.programandowebs.com/moviles/estructura-de-una-aplicacion-movil-con-lungojs/591/</p>
 <p>Puedes ver el video sobre el tema en youtube<br>
-https://www.youtube.com/watch?v=kkoMoVsAaOE</p>
+https://www.youtube.com/watch?v=38MEVnRiLKc</p>
