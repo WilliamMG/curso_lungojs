@@ -23,6 +23,6 @@ Introduccion a la API javascript de Lungo
 http://azteca.programandowebs.com/foro/inicio/</p>
 <h2>Mas informacion</h2>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
-http://azteca.programandowebs.com/moviles/crear-mi-primera-app-movil-con-lungo-framework/589/</p>
+http://azteca.programandowebs.com/moviles/introduccion-a-la-api-javascript-de-lungo-framework/604/</p>
 <p>Puedes ver el video sobre el tema en youtube<br>
 https://www.youtube.com/watch?v=-7aFmIGe-uU</p>
