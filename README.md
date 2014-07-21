@@ -29,6 +29,13 @@ Codigos de ejemplo del curso Creacion de aplicaciones moviles con lungojs
 	<li><a href="https://www.youtube.com/watch?v=38MEVnRiLKc">Video del tema</li>
 	<li><a href="http://azteca.programandowebs.com/moviles/formularios-listas-y-scroll-con-lungo-framework/593/">Articulo del tema</a></li>
 </ul>
+<h3>4.- Introduccion a la API javascript</h3>
+<p>Aprendemos a inicializar la API javascript de lungo asi como trabajar ya con algunos metodos, que nos sirven para mostrar u ocultar el menu y nevagar por la APP.</p>
+<ul>
+	<li><a href="https://github.com/programacionazteca/curso_lungojs/tree/master/Formularios_listas_y_scroll_con_lungo">Codigo del tema</a></li>
+	<li><a href="https://www.youtube.com/watch?v=-7aFmIGe-uU">Video del tema</li>
+	<li><a href="http://azteca.programandowebs.com/moviles/formularios-listas-y-scroll-con-lungo-framework/593/">Articulo del tema</a></li>
+</ul>
 
 <h2>Tienes dudas?</h2>
 <p>Te ayudamos a resolver tus dudas, entra al foro y publicala, en breve alguien del equipo de programacion azteca o algun integrante de la comunidad te ayudara<br>
