@@ -2,7 +2,7 @@ Introduccion a la API javascript de Lungo
 =============
 
 <h2>Trabajando con la API javascript</h2>
-<p>Emepzamos a ver como preparar el entorno de trabajo para la API javascript, inicializando la API, ademas tambien vemos algunos metodos para comenzar a trabajar con la API.-</p>
+<p>Empezamos a ver como preparar el entorno de trabajo para la API javascript, inicializando la API, ademas tambien vemos algunos metodos para comenzar a trabajar con la API.-</p>
 <ul>
 	<li>Mostrar y ocultar el menu lateral (Aside).
 		<ul>
