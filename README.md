@@ -3,6 +3,12 @@ Documentacion curso de lungojs
 
 Codigos de ejemplo del curso Creacion de aplicaciones moviles con lungojs
 
+<h2>Curso completo en Codeando.org</h2>
+
+<p>Ya puedes encontrar el curso de lungo en nuestra nueva plataforma codeando.org, el acceso es gratuito y no necesitas regitrarte puedes ingresar con tu cuenta de facebook, en la plataforma podras acceder a la documentacion completa del curso, videotutoriales, si tienes dudas puedes publicarlas en el sistema de discusiones y podras tomar notas del mimo.</p>
+
+<p>Ingresa ahora mismo <a href="http://codeando.org">Codeando.org</a></p>
+
 <h2>Curso completo en youtube</h2>
 
 <p>Puedes seguir el curso completo en <a href="https://www.youtube.com/playlist?list=PLMDLYpoZkTxOwwtFTpE3STZqpq7drDKe5">youtube</a>, suscribete para estar al pendiente de nuevos videos.</p>
