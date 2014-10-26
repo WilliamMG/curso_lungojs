@@ -18,11 +18,13 @@ Introduccion a la API javascript de Lungo
 		</ul>
 	</li>
 </ul>
+<p>Por ultimo veremos el sistema de notificaciones integrado en Lungo.</p>
 <h2>Tienes dudas?</h2>
 <p>Habilitamos un foro para que publiques todas tus dudas respecto al tema, ingresa en<br>
 http://azteca.programandowebs.com/foro/inicio/</p>
 <h2>Mas informacion</h2>
 <p>Puedes encontrar mas informacion sobre este tema en el articulo de programacion azteca<br>
-http://azteca.programandowebs.com/moviles/introduccion-a-la-api-javascript-de-lungo-framework/604/</p>
+http://azteca.programandowebs.com/moviles/introduccion-a-la-api-javascript-de-lungo-framework/604/<br>
+http://azteca.programandowebs.com/moviles/notificaciones-con-la-api-javascript-de-lungo/605/</p>
 <p>Puedes ver el video sobre el tema en youtube<br>
 https://www.youtube.com/watch?v=-7aFmIGe-uU</p>

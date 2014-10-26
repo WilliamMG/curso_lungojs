@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Mi primera APP lungo</title>
+	<link rel="stylesheet" href="lungo.css">
+	<link rel="stylesheet" href="lungo.icon.css">
+	<link rel="stylesheet" href="lungo.theme.css">
+</head>
+<body>
+<!-- Menu lateral de nuestra app //-->
+<aside id="settings">
+	<header data-title="Menu"></header>
+	<article class="active">
+	</article>
+</aside>
+
+<!-- Seccion principal de la app //-->
+<section id="main_section" data-transition="cover">
+	<header data-title="Mi primera app con lungo">
+		<nav class="on-left">
+			<button data-view-aside="settings" data-icon="menu"></button>
+		</nav>
+		<nav class="on-right">
+			<button data-view-section="sec-2" data-icon="arrow-right"></button>
+		</nav>
+	</header>
+	<article id="main-article" class="active indented list scroll" data-transition="cover">
+		<ul>
+			<li id="loading"></li>
+			<li data-icon="user" class="arrow selectable">
+				<strong>Texto importante</strong>
+				<small>Texto complementario</small>
+			</li>
+		</ul>
+	</article>
+	<article id="art-2" data-transition="cover">
+		<p>contenido secundario</p>
+	</article>
+	<footer>
+		<nav>
+			<a href="#" data-label="Home" data-title="Mi primera app con lungo" data-view-article="main-article" data-icon="home" class="active"></a>
+			<a href="#" id="contador" data-label="Seccion 2" data-title="Segundo article" data-view-article="art-2" data-icon="download"></a>
+			<a data-icon="arrow-left" data-label="Logout" data-view-section="login"></a>
+		</nav>
+	</footer>
+</section>
+
+<!-- Seccion secundaria de la app //-->
+<section id="sec-2" data-transition="slide">
+	<header data-back="home" data-title="Seccion 2"></header>
+	<article id="sec-2-1" class="active">
+		<p>Contenido del</p>
+	</article>
+</section>
+
+<script src="quo.js"></script>
+<script src="lungo.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

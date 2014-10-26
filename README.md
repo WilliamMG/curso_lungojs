@@ -41,6 +41,14 @@ Codigos de ejemplo del curso Creacion de aplicaciones moviles con lungojs
 	<li><a href="https://github.com/programacionazteca/curso_lungojs/tree/master/Introduccion_a_la_API_javascript_de_lungo">Codigo del tema</a></li>
 	<li><a href="https://www.youtube.com/watch?v=-7aFmIGe-uU">Video del tema</li>
 	<li><a href="http://azteca.programandowebs.com/moviles/introduccion-a-la-api-javascript-de-lungo-framework/604/">Articulo del tema</a></li>
+	<li><a href="http://azteca.programandowebs.com/moviles/notificaciones-con-la-api-javascript-de-lungo/605/">Articulo del tema 2</a></li>
+</ul>
+<h3>5.- Elementos count y loading</h3>
+<p>En este tema hablamos sobre dos elementos de la API javascript de lungo, el elemento count el cual nos permite mostrar una burbujita para indicar si hay notificaciones nuevas y el elemento loading el cual muestra una imagen de cargando.</p>
+<ul>
+	<li><a href="">Codigo del tema</a></li>
+	<li><a href="https://www.youtube.com/watch?v=607975vR3p4">Video del tema</li>
+	<li><a href="http://azteca.programandowebs.com/moviles/elemento-count-y-loading-api-javascript-framework-lungo/608/">Articulo del tema</a></li>
 </ul>
 
 <h2>Tienes dudas?</h2>
