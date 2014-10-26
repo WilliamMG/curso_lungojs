@@ -1,7 +1,7 @@
-Introduccion a la API javascript de Lungo
+Elementos count y loading
 =============
 
-<h2>Elementos count y loading</h2>
+<h2>Elemento count</h2>
 <p>Seguimos hablando sobre la API javascript de lungo, en este tema vemos como trabajan los elementos count y loading.</p>
 <p>El elemento count nos permite mostrar una burbuja en algun elemento de navegacion, en esta burbuja mostramos un numero para indicar si existen nuevas notificaciones en la APP.</p>
 <ul>
@@ -16,6 +16,8 @@ Introduccion a la API javascript de Lungo
 		</ul>
 	</li>
 </ul>
+
+<h2>Elemento loading</h2>
 <p>El elemento loading permite mostrar en algun elemento html de la APP una imagen de cargando a la cual le podremos dar varios usos como por ejemplo indicar al usuario que estamos actualizando o esperando a que termine algun proceso.</p>
 <ul>
 	<li>Mostrar elmento loading.-
